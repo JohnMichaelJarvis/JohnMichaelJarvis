@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/a4b33f91-c98f-4c65-80a0-6a2f521514bc/thumbnail" >
+</p>
 
 <!--
 **JohnMichaelJarvis/JohnMichaelJarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
