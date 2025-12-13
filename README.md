@@ -1,5 +1,7 @@
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/a4b33f91-c98f-4c65-80a0-6a2f521514bc/thumbnail" >
+  <a href="https://www.boot.dev/u/JohnMichaelJarvis">
+    <img src="https://api.boot.dev/v1/users/public/a4b33f91-c98f-4c65-80a0-6a2f521514bc/thumbnail" >
+  </a>
 </p>
 
 <!--
